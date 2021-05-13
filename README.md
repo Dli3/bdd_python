@@ -3,9 +3,10 @@
 ## Prerequisite to running tests:
 
 1. In the root directory, run
-   ```
-   pip3 install -r requirements.txt
-   ```
+
+```
+pip3 install -r requirements.txt
+```
 
 ### To run behave tests:
 
