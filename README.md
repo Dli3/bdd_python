@@ -1,5 +1,9 @@
 # bdd_python
 
+Prerequisite to running tests:
+
+1. In the root directory, run 'pip3 install -r requirements.txt'
+
 To run behave tests:
 
 1. Navigate to the behaves directory.
